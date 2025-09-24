@@ -45,10 +45,7 @@ The dashboard provides insights into **sales, profit, orders, and growth trends*
 
 ---
 
-## 📂 Repository Contents
-- `https://github.com/aniketsharma345/Super_Store/blob/main/Super_Store.pbix` → Power BI project file  
-- `images/` → Screenshots of dashboards  
-- `https://github.com/aniketsharma345/Super_Store/edit/main/README.md` → Project documentation  
+
 
 ---
 
