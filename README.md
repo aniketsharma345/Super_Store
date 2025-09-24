@@ -18,7 +18,7 @@ The dashboard provides insights into **sales, profit, orders, and growth trends*
 ## 📷 Dashboard Previews
 
 ### 1️⃣ Sales & Profit Overview
-![Sales and Profit Dashboard](images/dashboard1.png)
+![Sales and Profit Dashboard](https://github.com/aniketsharma345/Super_Store/blob/main/super_store2.png)
 
 **Highlights:**
 - Avg Sale: 230  
@@ -46,9 +46,9 @@ The dashboard provides insights into **sales, profit, orders, and growth trends*
 ---
 
 ## 📂 Repository Contents
-- `Super_Store.pbix` → Power BI project file  
+- `https://github.com/aniketsharma345/Super_Store/blob/main/Super_Store.pbix` → Power BI project file  
 - `images/` → Screenshots of dashboards  
-- `README.md` → Project documentation  
+- `https://github.com/aniketsharma345/Super_Store/edit/main/README.md` → Project documentation  
 
 ---
 
