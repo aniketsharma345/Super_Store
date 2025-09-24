@@ -29,7 +29,7 @@ The dashboard provides insights into **sales, profit, orders, and growth trends*
 ---
 
 ### 2️⃣ Regional & Segment Analysis
-![Regional Dashboard](images/dashboard2.png)
+![Regional Dashboard](https://github.com/aniketsharma345/Super_Store/blob/main/super_store1.png)
 
 **Highlights:**
 - Total Sales: 2M  
