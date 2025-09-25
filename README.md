@@ -22,7 +22,7 @@ The dashboard provides insights into **sales, profit, orders, and growth trends*
 
 **Highlights:**
 - Avg Sale Value: 230  
-- Avg Profit Val8: 29  
+- Avg Profit Value: 29  
 - Avg Profit %: 12.47%  
 - Profit over Years, YOY Growth, and Sub-Category contribution  
 
