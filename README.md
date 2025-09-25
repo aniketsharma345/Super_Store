@@ -21,8 +21,8 @@ The dashboard provides insights into **sales, profit, orders, and growth trends*
 ![Sales and Profit Dashboard](https://github.com/aniketsharma345/Super_Store/blob/main/super_store2.png)
 
 **Highlights:**
-- Avg Sale: 230  
-- Avg Profit: 29  
+- Avg Sale Value: 230  
+- Avg Profit Val8: 29  
 - Avg Profit %: 12.47%  
 - Profit over Years, YOY Growth, and Sub-Category contribution  
 
